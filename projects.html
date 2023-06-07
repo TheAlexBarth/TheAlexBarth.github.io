@@ -90,21 +90,20 @@
 
   </div>
 </header>
-<!--
-End Fixed Navigation
-==================================== -->
+<!-- End Fixed Navigation ==================================== -->
 
 <section id="blog" class="section bg-dark">
   <div class="container" id="Current_Projects">
     <div class="row">
       <!-- Header -->
       <div class="title text-center wow fadeInDown">
-        <h2>Current <span class="color">Projects</span></h2>
+        <h2>Current <span class="color">Research</span></h2>
         <div class="border"></div>
       </div>
       <!-- /Header -->
 
       <div class="clearfix">
+
         <!-- Oligotrophic Plankton Communities -->
         <article class="col-md-4 col-sm-6 col-xs-12 mb-30 clearfix wow fadeInUp" data-wow-duration="500ms">
           <div class="post-block">
@@ -112,91 +111,104 @@ End Fixed Navigation
               <img src="media/Project_Items/Sargasso_Sea.JPG" alt="Sargasso_Sea" class="img-responsive">
             </div>
             <div class="content">
-              <h3><a>Oligotrophic Plankton Community Structure</a></h3>
+              <h3><a href="projects_oligotrophic.html">Vertical zonation in ocean gyres</a></h3>
               <p>
                 The oligotrophic ocean gyres are one of the largest habitats on Earth. 
-                While plankton in these areas can be very sparse, their community structure and population dynamics have large impacts ocean foodwebs and biogeochemical cycles.
-                I'm working on several projects investigating topics including Rhizaria, diel vertical migration, and the influence of OMZs.
+                While plankton in these areas can be very sparse, 
+                their community structure and population dynamics have large impacts ocean foodwebs and biogeochemical cycles.
+                I am interested how individual traits and environmental variation influences vertical and 
+                temporal patterns in plankton community assemblage.
+                Much of this work employs the use of novel technology and analyses.
               </p>
               <a class="btn btn-transparent" href="projects_oligotrophic.html">See more</a>
             </div>
           </div>
         </article>
-        <!-- /Content 1 -->
+        <!-- /Oligotrophic Plankton -->
 
-        <!-- Content 2 -->
-        <article class="col-md-4 col-sm-6 col-xs-12 mb-30 wow fadeInUp" data-wow-duration="500ms"
-          data-wow-delay="200ms">
-          <div class="post-block">
-            <div class="media-wrapper">
-              <img src="media/Project_Items/PlanktoScope_Copepod.jpg" alt="Copepod" class="img-responsive">
-            </div>
-            <div class="content">
-              <h3><a>Community Science Plankton Imaging</a></h3>
-              <p>
-                Plankton imaging offers a new frontier for improving data quality and frequency for plankton monitoring programs.
-                Collaborating with <a href="https://www.planktoscope.org/discover">the planktoscope developers</a>, National Phytoplankton Monitoring groups, and several fantastic undergraduate students, I am working to distribute low-cost imaging tools to community volunteer groups.
-              </p>
-            </div>
-          </div>
-        </article>
-        <!-- end content 2 -->
 
-        <!-- Content 3 -->
-        <article class="col-md-4 col-sm-6 col-xs-12 mb-30 wow fadeInUp" data-wow-duration="500ms"
-          data-wow-delay="400ms">
-          <div class="post-block">
-            <div class="media-wrapper">
-              <img src="media/logos/EcotaxaToolsHexLogo.png" alt="ETX HEXlogo" class="img-responsive">
-            </div>
-
-            <div class="content">
-              <h3><a >Data Management for Plankton Imaging Systems</a></h3>
-              <p>
-                Plankton imaging systems generate large amounts of data, often scattered across several files in a mess of directories.
-                I'm developing data warehousing processes for our lab to store and analyze the new mass amounts of data we generate. 
-                Additionally, I am developing an R package for wrangling and analyzing data which follows the Ecotaxa format.
-              </p>
-              <a class="btn btn-transparent" href="https://thealexbarth.github.io/Ecotaxa_Tools_Tutorial/">Learn About it</a>
-              <a class="btn btn-transparent" href="https://github.com/TheAlexBarth/EcotaxaTools">Get EcotaxaTools</a>
-            </div>
-          </div>
-        </article>
-        <!-- end content 3 -->
-
-        <!-- Content 4 -->
+        <!--  -->
         <article class="col-md-4 col-sm-6 col-xs-12 mb-30 wow fadeInUp" data-wow-duration="500ms"
         data-wow-delay="400ms">
+        <div class="post-block">
+          <div class="media-wrapper">
+            <img src="media/logos/EcotaxaToolsHexLogo.png" alt="ETX HEXlogo" class="img-responsive"  href = "./projects_datastats.html">
+          </div>
+
+          <div class="content">
+            <h3><a href = "./projects_datastats.html">Management and Analysis of Plankton Imagery Data</a></h3>
+            <p>
+              Plankton imaging systems offer massive potential for better understanding spatiotemporal dynamics.
+              However, these systems also generate a large amount of data and have unique challenges with processing and analyzing the output.
+              Thus new statistical approaches and data-processing pipelines must be developed. I am working on methodology and statistics for
+              interpreting the nuanced data which comes from in-situ instruments. Additionally, I have created a comprehensive R package,
+              EcotaxaTools, for wrangling and analyzing data from Ecotaxa.
+            </p>
+            <a class="btn btn-transparent" href="./projects_datastats.html">See More</a>
+            <a class="btn btn-transparent" href="https://github.com/TheAlexBarth/EcotaxaTools">Get EcotaxaTools</a>
+          </div>
+        </div>
+      </article>
+      <!-- end content 3 -->
+
+
+      <!-- Estuarine Plankton Responses to Storm Events -->
+      <article class="col-md-4 col-sm-6 col-xs-12 mb-30 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="400ms">
         <div class="post-block">
           <div class="media-wrapper">
             <img src="media/Project_Items/North_inlet.jpg" alt="Estuary Image" class="img-responsive">
           </div>
 
           <div class="content">
-            <h3><a >Estuarine Plankton Responses to Storm Events</a></h3>
+            <h3><a href="projects_estuary-storms.html">Estuarine Plankton Responses to Storm Events</a></h3>
             <p>
               Intense rainfall is an increasing stressor to coastal ecosystems in the Southeast US. 
-              Inputs of freshwater and anthropogenic run-off can drastically alter phytoplankton communities. 
-              However it is unknown how such impacts will affect zooplankton populations.
-              Currently we are developing observational studies to identify the impact of storm events on the whole plankton community.
+              Inputs of freshwater and anthropogenic run-off can drastically alter phytoplankton communities. These events are short-lived, 
+              yet the impact to plankton communities may be large and propagate up trophic levels. To study the effect of rainfall events,
+              plankton communities must be studied at a high taxonomic and temporal resolution. I am investigating this phenomena using 
+              observational and experimental approaches. 
+            </p>
+            <a class="btn btn-transparent" href="projects_estuary-storms.html">See more</a>
+          </div>
+        </div>
+      </article>
+      <!-- /Estuaries -->
+
+      <!-- Plankton Community Science Imaging -->
+      <article class="col-md-4 col-sm-6 col-xs-12 mb-30 wow fadeInUp" data-wow-duration="500ms"
+        data-wow-delay="200ms">
+        <div class="post-block">
+          <div class="media-wrapper">
+            <img src="media/Project_Items/PlanktoScope_Copepod.jpg" alt="Copepod" class="img-responsive">
+          </div>
+          <div class="content">
+            <h3><a>Community Science Plankton Imaging</a></h3>
+            <p>
+              Plankton imaging offers a new frontier for improving data quality and frequency for plankton monitoring programs.
+              Collaborating with <a href="https://www.planktoscope.org/discover">the planktoscope developers</a>, 
+              National Phytoplankton Monitoring groups, and several fantastic undergraduate students, 
+              I am working to distribute low-cost imaging tools to community volunteer groups.
             </p>
           </div>
         </div>
       </article>
-      <!-- end content 4 -->
-  </div> <!-- end container -->
+      <!-- end content 2 -->
 
+  </div> 
+  <!-- end container -->
+
+  <!-- Start Past Project Container -->
   <div class="container">
     <div class="row">
       <!-- Header -->
       <div class="title text-center wow fadeInDown">
-        <h2>Past <span class="color">Projects</span></h2>
+        <h2>Past <span class="color">Research</span></h2>
         <div class="border"></div>
       </div>
       <!-- /Header -->
 
       <div class="clearfix">
-        <!-- Oligotrophic Plankton Communities -->
+        <!-- Coastal Phytoplankton variability -->
         <article class="col-md-4 col-sm-6 col-xs-12 mb-30 clearfix wow fadeInUp" data-wow-duration="500ms">
           <div class="post-block">
             <div class="media-wrapper">
@@ -205,18 +217,57 @@ End Fixed Navigation
             <div class="content">
               <h3><a>Phytoplankton Patterns on the Central California Coast</a></h3>
               <p>
-                Coastal upwelling systems are eutrophic habitats which support productive, diverse asseblages of phytoplankton.
+                Coastal upwelling systems are eutrophic habitats which support productive, diverse assemblages of phytoplankton.
                 However, phytoplankton abundance and community structure is extremely variable across multiple temporal scales. 
                 To fully understand ocean ecosystems, we must understand the drivers of phytoplankton community structure. 
-                In this study, my co-authors and I synthesized a dataset consisting of 10-years of phytoplantkon observations.
-                We identified local and regional forces which structure phytoplankton abundance and community composition across seasonal and interannual timescales.
+                In this study, my co-authors and I synthesized a dataset consisting of 10-years of phytoplankton observations.
+                We identified local and regional forces which structure phytoplankton abundance and community composition across seasonal and 
+                interannual timescales.
               </p>
               <a class="btn btn-transparent" href="https://www.int-res.com/abstracts/meps/v637/p29-43/">Read the Paper</a>
             </div>
           </div>
         </article>
-        <!-- /Content 1 -->
-  </div> <!-- end container -->
+        <!-- /Coastal phytoplankton variability -->
+  </div> 
+  <!-- end past project container -->
+
+  <!-- Start Other Projects Container -->
+  <div class="container">
+    <div class="row">
+      <!-- Header -->
+      <div class="title text-center wow fadeInDown">
+        <h2>Other <span class="color">Projects</span></h2>
+        <div class="border"></div>
+      </div>
+      <!-- /Header -->
+
+      <div class="clearfix">
+        <!-- GSA Section -->
+        <article class="col-md-4 col-sm-6 col-xs-12 mb-30 clearfix wow fadeInUp" data-wow-duration="500ms">
+          <div class="post-block">
+            <div class="media-wrapper">
+              <img src="media/logos/gsa_logo.jfif" alt="USC" class="img-responsive">
+            </div>
+            <div class="content">
+              <h3><a>Data-Driven Graduate Student Advocacy</a></h3>
+              <p>
+                Graduate students are an integral part of any research university. Yet, as both students and workers they face unique challenges.
+                For the 2022-23 academic year, I served on the GSA President's Cabinet as a data manager and analyst. In this position, I provided a 
+                quantitative analysis of graduate student issues. I constructed resources and presented results to a variety of stakeholders including University executives.
+                As a R-geek, these projects had some fun use of web-scrapping tools, survey data analysis, and shiny programming.
+              </p>
+              <a class="btn btn-transparent" href="https://uscgraduateassociation.github.io/">See the website</a>
+              <a class="btn btn-transparent" href="https://github.com/orgs/USCGraduateAssociation/repositories">See the code</a>
+            </div>
+          </div>
+        </article>
+        <!-- /GSA Section -->
+  </div> 
+  <!-- end Other Projects container -->
+
+
+
 </section> <!-- end section -->
 
 
