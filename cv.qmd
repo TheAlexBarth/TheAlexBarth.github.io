@@ -1,0 +1,246 @@
+---
+format: 
+  pdf: 
+    documentclass: article
+    geometry:
+      - top=10mm
+      - left=15mm
+      - right=15mm
+      - bottom=5mm
+      - heightrounded
+    fontfamily: libertine
+    colorlinks: true
+    fontsize: '16'
+    include-in-header: 
+      text: |
+        \usepackage{multicol}
+        \usepackage{lipsum}
+        \usepackage{hyperref}
+        \usepackage{libertine}
+        \pagestyle{empty}
+        \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
+        \setlength{\columnsep}{3em}
+        \usepackage{tabularx}
+---
+
+
+<!-- TITLE -->
+\begin{huge}\begin{center}{\bf ALEX BARTH}\end{center}\end{huge}
+
+<!-- CONTACT INFO -->
+\begin{center}
+Email: \href{mailto:alex.barth.science@gmail.com}{alex.barth.science@gmail.com} \\
+ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
+\href{https://TheAlexBarth.Github.io}{TheAlexBarth.Github.io} \\
+\end{center}
+\vspace{15pt}
+
+<!-- EDUCATION: 1ST BULLET -->
+\begin{large}
+  \hrule
+  \textbf{EDUCATION}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}\textbf{Ph.D. Biological Science in Ecology}\end{flushleft}
+    \begin{flushright}Scheduled Defense: Feb 14, 2024\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}University of South Carolina\end{flushleft}
+  \end{multicols}
+\end{large}
+
+\vspace{0.05cm}
+
+<!-- EDUCATION: 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}\textbf{B.S. Marine Science, Minor Statistics}\end{flushleft}
+    \begin{flushright}2019\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}
+    California Polytechnic State University, SLO
+    \end{flushleft}
+  \end{multicols}
+\end{large}
+\vspace{10pt}
+
+\begin{large}
+  \textbf{RESEARCH EXPERIENCE}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\begin{normalsize}
+  \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
+    2019- & Graduate Research Assistant, \href{https://www.zoo-plankton.net/}{\textbf{Stone Zooplankton Ecology Lab}}, University of South Carolina \newline Advisor: Dr. Joshua Stone\\
+    2017-2019 & HAB Sampling Technician, \textbf{Southern California Coastal Ocean Observing System}, Cal Poly Center for Coastal Marine Science. \newline Advisors: Dr. Alexis Pasulka, Dr. Ryan Walter\\
+    2018-2019 & Student Research Assistant, \textbf{Common Garden reciprocal cross of \textit{K. kelletii}}, Cal Poly \newline Adivsor: Dr. Crow White\\
+    2017 & Senior Research Project, \textbf{Investigating a trophic cascade in the upper subtitle} \newline Wrigley Institute, Catalina Island. Advisor: Dr. Chris Lowe\\
+    2017 & Summer Research Assistant, \textbf{Fishes of Texas}, University of Texas at Austin \newline Advisors: Adam Cohen, Dr. Dean Hendrickson
+  \end{tabularx}
+\end{normalsize}
+\vspace{10pt}
+
+\begin{large}
+  \textbf{TEACHING \& OUTREACH}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\begin{normalsize}
+  \textbf{Instructor of Record}, University of South Carolina\\
+  \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
+    Fall 2023 & Principles of Ecology Lab (BIOL570L)
+  \end{tabularx}\\
+  \textbf{Graduate Teaching Assistant (Lab Instructor)}, University of South Carolina\\
+  \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
+    Spring 2023 & Invertebrate Zoology (MSCI510L)\\
+    Spring 2020 - Fall 2022 & Ecology \& Ecology Lab (BIOL301L)\\
+    Fall 2019 & Introduction to Biology Lab (BIOL101L)
+  \end{tabularx}\\
+  \textbf{Magellan Undergraduate Scholar Project Advisor}, University of South Carolina\\
+  \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
+    2022-2023 & \textit{Characterizing trichodesmium patterns in oligotrophic oceans through in-situ imaging}
+  \end{tabularx}\\
+  \textbf{Guest Lectures}\\
+  \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
+    Fall 2022 & CSCE585: Machine Learning Systems, USC\\
+    Fall 2020 & Ocean Sampling Techniques, Cal Poly
+  \end{tabularx}\\
+  \textbf{Outreach Programs}\\
+  \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
+    2020-2022 & PlanktoScope development and outreach program, University of South Carolina and North Inlet-Winyah Bay National Estuarine Research Reserve\\
+    2018-2019 & Outreach Diver, Dive Beneath the Surface, Cal Poly\\
+    2018, 2019 & Group Instuctor, Learn by Doing Lab Cal Poly\\
+    2016 & Informal Education Assistant, Greater Cleveland Aquarium
+  \end{tabularx}
+\end{normalsize}
+\pagebreak
+
+<!-- Research Funding -->
+\begin{large}
+  \textbf{GRANTS \& AWARDS}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\begin{normalsize}
+  \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
+    2023 & \textbf{Graduate Travel Grant}, University of South Carolina, \$500\\
+    2023-2024 & \textbf{FlowCam Graduate Research Grant}, Equipment and Travel \newline \textit{Using FlowCam to characterize microplankton communities following intense rainfall events}\\
+    2023 & \textbf{Elsie Taber Fellowship}, University of South Carolina, \$2,500\\
+    2023 & \textbf{Graduate Travel Grant}, University of South Carolina, \$800\\
+    2023 & \textbf{Slocum Lunz Foundation}, \$1,130 \newline \textit{A combined experimental-observational approach to measure whole-community responses to storm events in estuaries}\\
+    2022 & \textbf{Elsie Taber Fellowship}, University of South Carolina, \$2,980 \newline \textit{Collaborative Research with NOAA Pacific Islands Fisheries Science Center} \\
+    2021-2022 & \textbf{SPARC Graduate Research Grant}, \$4,979 \newline \textit{Establishing community-based science monitoring of zooplankton communities’ response to harmful algae through low-cost imaging tools} \\
+    2019-2023 & \textbf{Presidential Fellowship}, University of South Carolina, \$40,000 \newline \textit{University-wide fellowship for top doctoral students}\\
+    2019, 2021 & \textbf{NSF GRFP}, Hononable Mention (2x) \\
+    2019 & \textbf{Frost Student Research Award}, \$500 \newline \textit{A common-garden, reciprocal cross of K. kelletii}
+  \end{tabularx}
+\end{normalsize}
+\vspace{10pt}
+
+<!-- Publications -->
+\begin{large}
+  \textbf{PUBLICATIONS}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\begin{normalsize}
+  \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
+    \textit{In Review} & \textbf{Barth AJ.} Stone JP. Getting a clear picture: application and analyses of in-situ imaging data for plankton ecology. \textit{Journal of Plankton Research: Horizons}\\
+    2023 (pre-print) & Cohen NR. Krinos AI. ... \textbf{Barth AB.} ... et al. Protistan metabolism across the western North Atlantic Ocean revealed through autonous underwater profiling. \textit{in review at Nature Comms.}. pre-print at bioRxiv. \href{https://www.biorxiv.org/content/10.1101/2023.11.20.567900v1.abstract}{doi: 10.1101/2023.11.20.567900}\\
+    2023 & \textbf{Barth A.} Johnson R. Stone J. Size and transparency influence diel vertical migration patterns in copepods. \textit{Limnology and Oceanogrphy}. \href{https://doi.org/10.1002/lno.12461}{doi: 10.1002/lno.12461}\\
+    2023 & Kenitz KM. Orenstein EC. Anderson CR. \textbf{Barth AJ.} et al. Convening expert taxonomists to build image libraries for training automated classifiers. \textit{Limnol. Oceanogr. Bulletin}. \href{https://doi.org/10.1002/lob.10584}{doi: 10.1002/lob.10584}\\
+    2022 & \textbf{Barth A.} Stone J. Comparison of an \textit{in situ} device and net-based method to study mesozooplankton communities in an oligotrophic system. \textit{Front. Mar Sci}. \href{https://doi.org/10.3389/fmars.2022.898057}{doi: 10.3389/fmars.2022.898057}\\
+    2020 & \textbf{Barth A.} Walter RK. Robbins I. Pasulka A. Seasonal and interannual variability of phytoplankton abundance and community composition on the Central Coast of California. \textit{Mar. Ecol. Prog. Ser.} \href{https://doi.org/10.3354/meps13245}{doi: 10.3354/meps13245}
+  \end{tabularx}
+\end{normalsize}
+\vspace{10pt}
+
+<!-- Public Software Packages -->
+\begin{large}
+  \textbf{PUBLIC SOFTWARE PACKAGES}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\begin{normalsize}
+  \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
+    (DEV) Ver 0.0.0.9 & Flowprocess. A processing pipeline for flowcam output (Visual SpreadSheet 6) to be best formatted for Ecotaxa entry. R. \href{https://github.com/TheAlexBarth/FlowProcess/tree/main}{https://github.com/TheAlexBarth/FlowProcess}\\
+    (DEV) Ver 1.2.2.9 & EcotaxaTools. A toolkit to process output files from the web application Ecotaxa. R. \href{https://github.com/TheAlexBarth/EcotaxaTools}{https://github.com/TheAlexBarth/EcotaxaTools.}\\
+    Ver 0.2.0 & ggusc. A color palette for University of South Carolina color schemes. R. \href{https://github.com/TheAlexBarth/ggusc}{https://github.com/TheAlexBarth/ggusc}
+  \end{tabularx}
+\end{normalsize}
+\vspace{10pt}
+
+
+<!-- Field & Oceanographic Experince & Certification -->
+\begin{large}
+  \textbf{FIELD \& OCEANOGRAPHIC EXPERIENCE}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\begin{normalsize}
+  \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
+    2022 & \textbf{R/V Oscar Elton Sette, Big Eye Tuna Oceanography Cruise}\\
+    2019 & \textbf{R/V Atlantic Explorer, BATS, July Cruise}\\
+    2018 & Scientific Diver Certification, \textbf{American Academy of Underwater Scientists (AAUS)}\\
+    2017 & Small Boat Certification, \textbf{NASBLA}, California
+  \end{tabularx}
+\end{normalsize}
+\pagebreak
+
+<!-- Service Activities -->
+\begin{large}
+  \textbf{SERVICE}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\begin{normalsize}
+  \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
+    Journal Reviewer & \textbf{Estuaries \& Coasts, Nature Comm. Earth and Environment}\\
+    2022-2023 & Co-Chair Graduate Stipend \& Cost-of-Living Committee, USC\\
+    2022-2023 & Secretary of Data Management, Graduate Student Association of USC\\
+    2021-2022 & Service Chair, Graduate Association of Biological Sciences of USC\\
+    2019-2021 & Presidential Fellows Advisory Council, USC\\
+    2019- & Member, Graduate Association of Biological Sciences, USC\\
+    2016-2019 & Member, Marine Science Club, Cal Poly
+  \end{tabularx}
+\end{normalsize}
+\vspace{10pt}
+
+
+<!-- Presentations -->
+\begin{large}
+  \textbf{PRESENTATIONS \& SEMINARS}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\begin{normalsize}
+  \textbf{Seminars \& Invited Talks}\\
+  \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
+    Dec 2023 & USC Ecology Seminar \newline Title: \textit{Microplankton responses to intense rainfall events.}\\
+    Mar 2023 & Invited Seminar, British Antartic Survey, Cambridge UK \newline Title: \textit{Plankton Paparazzi: How can in situ imaging reveal new patterns in plankton ecology?}\\
+    April 2022 & USC Presidential Fellows Seminar \newline Title: \textit{Plankton control the world: New ways to understand the global overlords.}\\
+    Feb 2022 & USC Ecology Seminar \newline Title: \textit{Plankon from the great blue to our local shores}\\
+    Jun 2021 & USC Ecology Seminar \newline Title: \textit{Ocean Monsters: Giant protists and their role in zooplankton communities}
+  \end{tabularx}
+  \textbf{Conference \& Workshops}\\
+  \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
+    CERF 2023 & \textbf{Barth A.} Stone J. A combined observational-experimental approach to identify the influence of rain on plankton communities. Oral Presentation\\
+    ASLO 2023 & Stone JP. \textbf{Barth AJ.} Rykaczewski R. Wren J. Effects of the ETNP oxygen deficient zone on zooplankton communities and vertical migration. Co-author.\\
+    ASLO 2023 & \textbf{Barth AJ.} Stone JP. Occupancy modelling of imagery data can reveal zooplankton vertical patterns and patchiness. Oral Presentation.\\
+    UVP User Meeting, Villefrance 2022 & \textbf{Barth AJ}. EcotaxaTools: an open-source R. package for managing Ecotaxa data. Oral Presentation.\\
+    UVP User Meeting, Villefrance 2022 & \textbf{Barth AJ}. Stone JP. UVP5HD comparisons to MOCNESS zooplankton abundance estimates and other observations from over a year of deployments in the Sargasso Sea.\\
+    International Conference on Copepoda 2022 & \textbf{Barth AJ.} Stone JP. Migrator Morphology: In situ observations of copepod diel vertical migration. Oral Presentation.\\
+    SEERS 2022 & \textbf{Barth AJ.} Stone JP. Improving citizen science phytoplankton monitoring thorugh a low-cost, open-source imaging device. Poster\\
+    OSM 2022 & Pasulka AL. Walter RK. \textbf{Barth AJ}. Gilbert J. Robbins IR. Phytoplankton phenological shifts as indicators of oceanographic change in Central California. Co-author.\\
+    PlankoScope Workshop 2021 & \textbf{Barth AJ.} PlanktoScope Progress and Plans. Oral Presentation.\\
+    ASLO 2021 & Stone JP. \textbf{Barth AJ.} In-situ quantification of zooplankton around the oxygen minimum zone in the Sargasso Sea. Co-author.\\
+    ASLO 2021 & \textbf{Barth AJ.} Stone JP. Quantifying Rhizaria abundance and ecology in the oligotrophic ocean. Oral Presentation\\
+    OSM 2020 & \textbf{Barth AJ.} Walter RK. Robbins IR. Pasulka AL. Seasonal and interannual variability of phytoplankton abundance and community composition on the Central Coast of California. Poster
+  \end{tabularx}
+\end{normalsize}
+\vspace{10pt}
+
