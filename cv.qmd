@@ -127,6 +127,7 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
 \end{large}
 \begin{normalsize}
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
+    2023 & \textbf{Impact 2075 Grant}, Texas Gulf Coast Research Center, \$249,947 \newline \textit{Disentangling plankton food webs along the Texas Gulf Coast to predict the future of estuarine ecosystems.} \newline PIs: Dr. Jordan Casey, Dr. Mevin Hooten; Co-investigators: \textbf{Alex Barth}, Dr. Zach Olson. \newline \textit{co-authored research proposal with Dr. Casey \& Dr. Hooten} \\
     2023 & \textbf{Graduate Travel Grant}, University of South Carolina, \$500\\
     2023-2024 & \textbf{FlowCam Graduate Research Grant}, Equipment and Travel \newline \textit{Using FlowCam to characterize microplankton communities following intense rainfall events}\\
     2023 & \textbf{Elsie Taber Fellowship}, University of South Carolina, \$2,500\\
@@ -149,7 +150,8 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
 \end{large}
 \begin{normalsize}
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
-    \textit{In Review} & \textbf{Barth AJ.} Stone JP. Getting a clear picture: application and analyses of in-situ imaging data for plankton ecology. \textit{Journal of Plankton Research: Horizons}\\
+    \textit{In Prep} & \textbf{Barth AJ.} Blanco-Berical L. Johnson R. Stone J. Rhizaria in the oligotrophic ocean exhibit temporal and vertical variability. Target Journal: \textit{Deep Sea Research Part I}. Draft available on request.
+    \textit{In Revision} & \textbf{Barth AJ.} Stone JP. Getting a clear picture: application and analyses of in-situ imaging data for plankton ecology. \textit{Journal of Plankton Research: Horizons}\\
     2023 (pre-print) & Cohen NR. Krinos AI. ... \textbf{Barth AB.} ... et al. Protistan metabolism across the western North Atlantic Ocean revealed through autonous underwater profiling. \textit{in review at Nature Comms.}. pre-print at bioRxiv. \href{https://www.biorxiv.org/content/10.1101/2023.11.20.567900v1.abstract}{doi: 10.1101/2023.11.20.567900}\\
     2023 & \textbf{Barth A.} Johnson R. Stone J. Size and transparency influence diel vertical migration patterns in copepods. \textit{Limnology and Oceanogrphy}. \href{https://doi.org/10.1002/lno.12461}{doi: 10.1002/lno.12461}\\
     2023 & Kenitz KM. Orenstein EC. Anderson CR. \textbf{Barth AJ.} et al. Convening expert taxonomists to build image libraries for training automated classifiers. \textit{Limnol. Oceanogr. Bulletin}. \href{https://doi.org/10.1002/lob.10584}{doi: 10.1002/lob.10584}\\
@@ -199,7 +201,7 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
 \end{large}
 \begin{normalsize}
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
-    Journal Reviewer & \textbf{Estuaries \& Coasts, Nature Comm. Earth and Environment}\\
+    Journal Reviewer & \textbf{Estuaries \& Coasts, Nature Comm. Earth and Environment, Journal of Geophysical Research, Journal of Plankton Research}\\
     2022-2023 & Co-Chair Graduate Stipend \& Cost-of-Living Committee, USC\\
     2022-2023 & Secretary of Data Management, Graduate Student Association of USC\\
     2021-2022 & Service Chair, Graduate Association of Biological Sciences of USC\\
@@ -239,8 +241,7 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
     PlankoScope Workshop 2021 & \textbf{Barth AJ.} PlanktoScope Progress and Plans. Oral Presentation.\\
     ASLO 2021 & Stone JP. \textbf{Barth AJ.} In-situ quantification of zooplankton around the oxygen minimum zone in the Sargasso Sea. Co-author.\\
     ASLO 2021 & \textbf{Barth AJ.} Stone JP. Quantifying Rhizaria abundance and ecology in the oligotrophic ocean. Oral Presentation\\
-    OSM 2020 & \textbf{Barth AJ.} Walter RK. Robbins IR. Pasulka AL. Seasonal and interannual variability of phytoplankton abundance and community composition on the Central Coast of California. Poster
+    OSM 2020 & \textbf{Barth AJ.} Walter RK. Robbins IR. Pasulka AL. Seasonal and interannual variability of phytoplankton abundance and community composition on the Central Coast of California. Poster.
   \end{tabularx}
 \end{normalsize}
 \vspace{10pt}
-
