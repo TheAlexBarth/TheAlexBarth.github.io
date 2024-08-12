@@ -967,6 +967,10 @@ h1.CV-header {
   text-transform: uppercase;
 }
 
+.blog-desc p {
+  color: #fff
+}
+
 #blog-page {
   margin: 0 0 40px;
 }
