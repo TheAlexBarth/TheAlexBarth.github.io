@@ -35,9 +35,25 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
 \end{center}
 \vspace{15pt}
 
+\begin{large}
+  \textbf{RESEARCH EXPERIENCE}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\begin{normalsize}
+  \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
+    2024- & Postdoctoral Researcher, University of Texas, Marine Science Institute + Statistics \& Data Science \newline Advisors: \href{https://caseylab.weebly.com}{Dr. Jordan Casey} \& \href{https://mhooten.github.io}{Dr. Mevin Hooten}\\
+    2019-2024 & Graduate Research Assistant, \href{https://www.zoo-plankton.net/}{\textbf{Stone Zooplankton Ecology Lab}}, University of South Carolina \newline Advisor: Dr. Joshua Stone\\
+    2017-2019 & HAB Sampling Technician, \textbf{Southern California Coastal Ocean Observing System}, Cal Poly Center for Coastal Marine Science. \newline Advisors: Dr. Alexis Pasulka, Dr. Ryan Walter\\
+    2018-2019 & Student Research Assistant, \textbf{Common Garden reciprocal cross of \textit{K. kelletii}}, Cal Poly \newline Adivsor: Dr. Crow White\\
+    2017 & Senior Research Project, \textbf{Investigating a trophic cascade in the upper subtitle} \newline Wrigley Institute, Catalina Island. Advisor: Dr. Chris Lowe\\
+    2017 & Summer Research Assistant, \textbf{Fishes of Texas}, University of Texas at Austin \newline Advisors: Adam Cohen, Dr. Dean Hendrickson
+  \end{tabularx}
+\end{normalsize}
+\vspace{10pt}
+
 <!-- EDUCATION: 1ST BULLET -->
 \begin{large}
-  \hrule
   \textbf{EDUCATION}
   \vspace{3pt}
   \hrule
@@ -68,41 +84,27 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
 \end{large}
 \vspace{10pt}
 
-\begin{large}
-  \textbf{RESEARCH EXPERIENCE}
-  \vspace{3pt}
-  \hrule
-\end{large}
-\begin{normalsize}
-  \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
-    2019-2024 & Graduate Research Assistant, \href{https://www.zoo-plankton.net/}{\textbf{Stone Zooplankton Ecology Lab}}, University of South Carolina \newline Advisor: Dr. Joshua Stone\\
-    2017-2019 & HAB Sampling Technician, \textbf{Southern California Coastal Ocean Observing System}, Cal Poly Center for Coastal Marine Science. \newline Advisors: Dr. Alexis Pasulka, Dr. Ryan Walter\\
-    2018-2019 & Student Research Assistant, \textbf{Common Garden reciprocal cross of \textit{K. kelletii}}, Cal Poly \newline Adivsor: Dr. Crow White\\
-    2017 & Senior Research Project, \textbf{Investigating a trophic cascade in the upper subtitle} \newline Wrigley Institute, Catalina Island. Advisor: Dr. Chris Lowe\\
-    2017 & Summer Research Assistant, \textbf{Fishes of Texas}, University of Texas at Austin \newline Advisors: Adam Cohen, Dr. Dean Hendrickson
-  \end{tabularx}
-\end{normalsize}
-\vspace{10pt}
 
 \begin{large}
-  \textbf{TEACHING \& OUTREACH}
+  \textbf{TEACHING \& OUTREACH EXPERIENCE}
   \vspace{3pt}
   \hrule
 \end{large}
 \begin{normalsize}
-  \textbf{Instructor of Record}, University of South Carolina\\
+  \textbf{Instructor of Record}\\
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
-    Fall 2023 & Principles of Ecology Lab (BIOL570L)
+    Fall 2023 & Principles of Ecology Lab, University of South Carolina (BIOL570L)
   \end{tabularx}\\
-  \textbf{Graduate Teaching Assistant (Lab Instructor)}, University of South Carolina\\
+  \textbf{Graduate Teaching Assistant (Lab Instructor)}\\
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
-    Spring 2023 & Invertebrate Zoology (MSCI510L)\\
-    Spring 2020 - Fall 2022 & Ecology \& Ecology Lab (BIOL301L)\\
-    Fall 2019 & Introduction to Biology Lab (BIOL101L)
+    Spring 2023 & Invertebrate Zoology, USC (MSCI510L)\\
+    Spring 2020 - Fall 2022 & Ecology \& Ecology Lab, USC (BIOL301L)\\
+    Fall 2019 & Introduction to Biology Lab, USC (BIOL101L)
   \end{tabularx}\\
-  \textbf{Magellan Undergraduate Scholar Project Advisor}, University of South Carolina\\
+  \textbf{Student Mentorship}\\
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
-    2022-2023 & \textit{Characterizing trichodesmium patterns in oligotrophic oceans through in-situ imaging}
+    2024 & Louis Stokes Alliance for Minority Participation Summer Research Academy, University of Texas \newline Undergraduate. Project: \textit{Changes in plankton biodiversity following salinity regime shifts}\\
+    2022-2023 & Magellan Scholar Program, University of South Carolina \newline Undergraduate. Project: \textit{Characterizing trichodesmium patterns in oligotrophic oceans through in-situ imaging}
   \end{tabularx}\\
   \textbf{Guest Lectures}\\
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
@@ -127,6 +129,7 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
 \end{large}
 \begin{normalsize}
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
+    2024-2025 & \textbf{Impact 2075}, Texas Gulf Coast Research Center, \$249.947 \newline PIs: Dr. Jordan Casey, Dr. Mevin Hooten. Co-investigators: \textbf{Dr. Alex Barth$^{*}$}, Dr. Zach Olson. \newline \textit{Untangling food webs along the Texas Gulf Coast to predict the future of estuarine ecosystems.} \newline $^{*}$ co-wrote proposal with Drs. Casey \& Hooten.\\
     2023 & \textbf{Graduate Travel Grant}, University of South Carolina, \$500\\
     2023-2024 & \textbf{FlowCam Graduate Research Grant}, Equipment and Travel \newline \textit{Using FlowCam to characterize microplankton communities following intense rainfall events}\\
     2023 & \textbf{Elsie Taber Fellowship}, University of South Carolina, \$2,500\\
@@ -150,9 +153,9 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
 \end{large}
 \begin{normalsize}
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
-    \textit{In Prep} & \textbf{Barth AJ.} Blanco-Berical L. Johnson R. Stone J. Rhizaria in the oligotrophic ocean exhibit temporal and vertical variability. Target Journal: \textit{Deep Sea Research Part I}. Draft available on request.\\
-    \textit{In Review} & \textbf{Barth AJ.} Stone JP. Getting a clear picture: application and analyses of in-situ imaging data for plankton ecology. \textit{Journal of Plankton Research: Horizons}\\
-    2023 (pre-print) & Cohen NR. Krinos AI. ... \textbf{Barth AB.} ... et al. Protistan metabolism across the western North Atlantic Ocean revealed through autonous underwater profiling. \textit{in review at Nature Comms.}. pre-print at bioRxiv. \href{https://www.biorxiv.org/content/10.1101/2023.11.20.567900v1.abstract}{doi: 10.1101/2023.11.20.567900}\\
+    \textit{In Press} & Cohen NR. Krinos AI. ... \textbf{Barth AB.} ... et al. Protistan metabolism across the western North Atlantic Ocean revealed through autonous underwater profiling. \textit{Nature Comms.}. \href{https://www.biorxiv.org/content/10.1101/2023.11.20.567900v1.abstract}{doi: 10.1101/2023.11.20.567900}\\
+    \textit{In Press} & \textbf{Barth AJ.} Blanco-Berical L. Johnson R. Stone J. Rhizaria in the oligotrophic ocean exhibit temporal and vertical variability. \textit{Deep Sea Research Part I}. \href{https://www.biorxiv.org/content/10.1101/2024.05.10.593577v1.abstract}{bioRxiv pre-print}\\
+    2024 & \textbf{Barth AJ.} Stone JP. Understanding the picture: the promise and challenges of in-situ imagery data in the study of plankton ecology. \textit{Journal of Plankton Research: Horizons}\\
     2023 & \textbf{Barth A.} Johnson R. Stone J. Size and transparency influence diel vertical migration patterns in copepods. \textit{Limnology and Oceanogrphy}. \href{https://doi.org/10.1002/lno.12461}{doi: 10.1002/lno.12461}\\
     2023 & Kenitz KM. Orenstein EC. Anderson CR. \textbf{Barth AJ.} et al. Convening expert taxonomists to build image libraries for training automated classifiers. \textit{Limnol. Oceanogr. Bulletin}. \href{https://doi.org/10.1002/lob.10584}{doi: 10.1002/lob.10584}\\
     2022 & \textbf{Barth A.} Stone J. Comparison of an \textit{in situ} device and net-based method to study mesozooplankton communities in an oligotrophic system. \textit{Front. Mar Sci}. \href{https://doi.org/10.3389/fmars.2022.898057}{doi: 10.3389/fmars.2022.898057}\\
@@ -160,6 +163,7 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
   \end{tabularx}
 \end{normalsize}
 \vspace{10pt}
+
 
 <!-- Service Activities -->
 \begin{large}
@@ -169,13 +173,14 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
 \end{large}
 \begin{normalsize}
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
-    Grant Reviewer & \textbf{National Science Center Poland}\\
-    Journal Reviewer & \textbf{Estuaries \& Coasts, Nature Comm. Earth and Environment, Journal of Geophysical Research, Journal of Plankton Research}\\
+    Grant Reviewer & \textbf{National Science Centre (NCN Poland)}\\
+    Journal Reviewer & \textbf{Estuaries \& Coasts, Nature Comm. Earth and Environment, Journal of Geophysical Research, Journal of Plankton Research, Limnology \& Oceanography: Methods, Limnology \& Oceanography}\\
+    2024 & Expert Panel Reviewer, ST10 Section, National Science Centre, NCN in Krakow, Poland \\
     2022-2023 & Co-Chair Graduate Stipend \& Cost-of-Living Committee, USC\\
     2022-2023 & Secretary of Data Management, Graduate Student Association of USC\\
     2021-2022 & Service Chair, Graduate Association of Biological Sciences of USC\\
     2019-2021 & Presidential Fellows Advisory Council, USC\\
-    2019- & Member, Graduate Association of Biological Sciences, USC\\
+    2019-2024 & Member, Graduate Association of Biological Sciences, USC\\
     2016-2019 & Member, Marine Science Club, Cal Poly
   \end{tabularx}
 \end{normalsize}
@@ -225,6 +230,7 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
 \begin{normalsize}
   \textbf{Seminars \& Invited Talks}\\
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
+    Feb 2024 & Doctoral Defense Seminar \newline Title: \textit{Illuminating the mesopelagic through in-situ imaging of plankton communities.}\\
     Dec 2023 & USC Ecology Seminar \newline Title: \textit{Microplankton responses to intense rainfall events.}\\
     Mar 2023 & Invited Seminar, British Antartic Survey, Cambridge UK \newline Title: \textit{Plankton Paparazzi: How can in situ imaging reveal new patterns in plankton ecology?}\\
     April 2022 & USC Presidential Fellows Seminar \newline Title: \textit{Plankton control the world: New ways to understand the global overlords.}\\
@@ -234,7 +240,7 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
   \textbf{Conference \& Workshops}\\
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
     OSM 2023 & \textbf{Barth A.} Smith E. Pinckney J. Krask J. Stone J. Determining the impact of severe rain events on phytoplankton communities through HPLC \& FlowCam. Oral Presentation.\\ 
-    CERF 2023 & \textbf{Barth A.} Stone J. A combined observational-experimental approach to identify the influence of rain on plankton communities. Oral Presentation\\
+    CERF 2023 & \textbf{Barth A.} Stone J. A combined observational-experimental approach to identify the influence of rain on plankton communities. Oral Presentation.\\
     ASLO 2023 & Stone JP. \textbf{Barth AJ.} Rykaczewski R. Wren J. Effects of the ETNP oxygen deficient zone on zooplankton communities and vertical migration. Co-author.\\
     ASLO 2023 & \textbf{Barth AJ.} Stone JP. Occupancy modelling of imagery data can reveal zooplankton vertical patterns and patchiness. Oral Presentation.\\
     UVP User Meeting, Villefrance 2022 & \textbf{Barth AJ}. EcotaxaTools: an open-source R. package for managing Ecotaxa data. Oral Presentation.\\
