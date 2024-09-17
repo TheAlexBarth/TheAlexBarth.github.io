@@ -108,6 +108,7 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
   \end{tabularx}\\
   \textbf{Guest Lectures}\\
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
+    Fall 2024 & MNS101: Undergraduate Seminar in Marine Science, UT Austin\\
     Fall 2022 & CSCE585: Machine Learning Systems, USC\\
     Fall 2020 & Ocean Sampling Techniques, Cal Poly
   \end{tabularx}\\
@@ -173,9 +174,7 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
 \end{large}
 \begin{normalsize}
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
-    Grant Reviewer & \textbf{National Science Centre (NCN Poland)}\\
     Journal Reviewer & \textbf{Estuaries \& Coasts, Nature Comm. Earth and Environment, Journal of Geophysical Research, Journal of Plankton Research, Limnology \& Oceanography: Methods, Limnology \& Oceanography}\\
-    2024 & Expert Panel Reviewer, ST10 Section, National Science Centre, NCN in Krakow, Poland \\
     2022-2023 & Co-Chair Graduate Stipend \& Cost-of-Living Committee, USC\\
     2022-2023 & Secretary of Data Management, Graduate Student Association of USC\\
     2021-2022 & Service Chair, Graduate Association of Biological Sciences of USC\\
