@@ -101,10 +101,11 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
     Spring 2020 - Fall 2022 & Ecology \& Ecology Lab, USC (BIOL301L)\\
     Fall 2019 & Introduction to Biology Lab, USC (BIOL101L)
   \end{tabularx}\\
-  \textbf{Student Mentorship}\\
+  \textbf{Undergraduate Student Mentorship}\\
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
-    2024 & Louis Stokes Alliance for Minority Participation Summer Research Academy, University of Texas \newline Undergraduate. Project: \textit{Changes in plankton biodiversity following salinity regime shifts}\\
-    2022-2023 & Magellan Scholar Program, University of South Carolina \newline Undergraduate. Project: \textit{Characterizing trichodesmium patterns in oligotrophic oceans through in-situ imaging}
+    2024- & Louis Stokes Alliance for Minority Participation (LSAMP), Texas A\&M Corpus Christi, Student Co-Advised with Dr. John Majoris. \newline Project: \textit{Characterizing community structure of mesozooplankton in the Mission-Aransas Estuary}.\\
+    2024 Summer & Louis Stokes Alliance for Minority Participation Summer Research Academy, University of Texas \newline Project: \textit{Changes in plankton biodiversity following salinity regime shifts}\\
+    2022-2023 & Magellan Scholar Program, University of South Carolina \newline Project: \textit{Characterizing trichodesmium patterns in oligotrophic oceans through in-situ imaging}
   \end{tabularx}\\
   \textbf{Guest Lectures}\\
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
@@ -154,8 +155,8 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
 \end{large}
 \begin{normalsize}
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
-    \textit{In Press} & Cohen NR. Krinos AI. ... \textbf{Barth AB.} ... et al. Protistan metabolism across the western North Atlantic Ocean revealed through autonous underwater profiling. \textit{Nature Comms.}. \href{https://www.biorxiv.org/content/10.1101/2023.11.20.567900v1.abstract}{doi: 10.1101/2023.11.20.567900}\\
-    \textit{In Press} & \textbf{Barth AJ.} Blanco-Berical L. Johnson R. Stone J. Rhizaria in the oligotrophic ocean exhibit temporal and vertical variability. \textit{Deep Sea Research Part I}. \href{https://www.biorxiv.org/content/10.1101/2024.05.10.593577v1.abstract}{bioRxiv pre-print}\\
+    2024 & Cohen NR. Krinos AI. ... \textbf{Barth AB.} ... et al. Protistan metabolism across the western North Atlantic Ocean revealed through autonous underwater profiling. \textit{Nature Comms.}. \href{https://doi.org/10.1038/s41467-024-51583-4}{doi: 10.1038/s41467-024-51583-4}\\
+    2024 & \textbf{Barth AJ.} Blanco-Berical L. Johnson R. Stone J. Rhizaria in the oligotrophic ocean exhibit temporal and vertical variability. \textit{Deep Sea Research Part I}. \href{https://doi.org/10.1016/j.dsr.2024.104371}{doi: 10.1016/j.dsr.2024.104371}\\
     2024 & \textbf{Barth AJ.} Stone JP. Understanding the picture: the promise and challenges of in-situ imagery data in the study of plankton ecology. \textit{Journal of Plankton Research: Horizons}\\
     2023 & \textbf{Barth A.} Johnson R. Stone J. Size and transparency influence diel vertical migration patterns in copepods. \textit{Limnology and Oceanogrphy}. \href{https://doi.org/10.1002/lno.12461}{doi: 10.1002/lno.12461}\\
     2023 & Kenitz KM. Orenstein EC. Anderson CR. \textbf{Barth AJ.} et al. Convening expert taxonomists to build image libraries for training automated classifiers. \textit{Limnol. Oceanogr. Bulletin}. \href{https://doi.org/10.1002/lob.10584}{doi: 10.1002/lob.10584}\\
@@ -174,7 +175,9 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
 \end{large}
 \begin{normalsize}
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
+    Grant Review & \textbf{National Science Centre (NCN) Poland External Reviewer.}\\
     Journal Reviewer & \textbf{Estuaries \& Coasts, Nature Comm. Earth and Environment, Journal of Geophysical Research, Journal of Plankton Research, Limnology \& Oceanography: Methods, Limnology \& Oceanography}\\
+    2024 & Expert Panel Member, National Science Centre (NCN) Poland. \newline  Krakow, Poland. Provided review on 14 proposals and participated in panel evaluation. \\
     2022-2023 & Co-Chair Graduate Stipend \& Cost-of-Living Committee, USC\\
     2022-2023 & Secretary of Data Management, Graduate Student Association of USC\\
     2021-2022 & Service Chair, Graduate Association of Biological Sciences of USC\\
