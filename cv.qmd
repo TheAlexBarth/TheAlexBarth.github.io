@@ -93,7 +93,13 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
 \begin{normalsize}
   \textbf{Instructor of Record}\\
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
-    Fall 2023 & Principles of Ecology Lab, University of South Carolina (BIOL570L)
+    Fall 2023 & Principles of Ecology Lab, University of South Carolina (BIOL570L) \newline
+    \href{https://thealexbarth.github.io/F2023_EcoLab/}{Archived Course Materials}
+  \end{tabularx}\\
+  \textbf{Workshops, Lectures, \& Training Modules}\\
+  \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
+    Fall 2024 & Spooky Statistics, University of Texas MSI \newline
+    \href{https://thealexbarth.github.io/Spooky_Statistics/}{A halloween-themed introduction to Bayesian statistics.}
   \end{tabularx}\\
   \textbf{Graduate Teaching Assistant (Lab Instructor)}\\
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
@@ -103,7 +109,7 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
   \end{tabularx}\\
   \textbf{Undergraduate Student Mentorship}\\
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
-    2024- & Louis Stokes Alliance for Minority Participation (LSAMP), Texas A\&M Corpus Christi, Student Co-Advised with Dr. John Majoris. \newline Project: \textit{Characterizing community structure of mesozooplankton in the Mission-Aransas Estuary}.\\
+    2024- & Louis Stokes Alliance for Minority Participation (LSAMP), Texas A\&M Corpus Christi, Student Co-Advised with Dr. John Majoris. \newline Project: \textit{Community structure and biomass of mesozooplankton in the Mission-Aransas Estuary}.\\
     2024 Summer & Louis Stokes Alliance for Minority Participation Summer Research Academy, University of Texas \newline Project: \textit{Changes in plankton biodiversity following salinity regime shifts}\\
     2022-2023 & Magellan Scholar Program, University of South Carolina \newline Project: \textit{Characterizing trichodesmium patterns in oligotrophic oceans through in-situ imaging}
   \end{tabularx}\\
@@ -131,7 +137,7 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
 \end{large}
 \begin{normalsize}
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
-    2024-2025 & \textbf{Impact 2075}, Texas Gulf Coast Research Center, \$249.947 \newline PIs: Dr. Jordan Casey, Dr. Mevin Hooten. Co-investigators: \textbf{Dr. Alex Barth$^{*}$}, Dr. Zach Olson. \newline \textit{Untangling food webs along the Texas Gulf Coast to predict the future of estuarine ecosystems.} \newline $^{*}$ co-wrote proposal with Drs. Casey \& Hooten.\\
+    2024-2025 & \textbf{Impact 2075}, Texas Gulf Coast Research Center, \$249,947 \newline PIs: Dr. Jordan Casey, Dr. Mevin Hooten. Co-investigators: \textbf{Dr. Alex Barth$^{*}$}, Dr. Zach Olson. \newline \textit{Untangling food webs along the Texas Gulf Coast to predict the future of estuarine ecosystems.} \newline $^{*}$ co-wrote proposal with Drs. Casey \& Hooten.\\
     2023 & \textbf{Graduate Travel Grant}, University of South Carolina, \$500\\
     2023-2024 & \textbf{FlowCam Graduate Research Grant}, Equipment and Travel \newline \textit{Using FlowCam to characterize microplankton communities following intense rainfall events}\\
     2023 & \textbf{Elsie Taber Fellowship}, University of South Carolina, \$2,500\\
