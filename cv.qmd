@@ -138,6 +138,7 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
 \begin{normalsize}
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
     2024-2025 & \textbf{Impact 2075}, Texas Gulf Coast Research Center, \$249,947 \newline PIs: Dr. Jordan Casey, Dr. Mevin Hooten. Co-investigators: \textbf{Dr. Alex Barth$^{*}$}, Dr. Zach Olson. \newline \textit{Untangling food webs along the Texas Gulf Coast to predict the future of estuarine ecosystems.} \newline $^{*}$ co-wrote proposal with Drs. Casey \& Hooten.\\
+    2024 & \textbf{Jeffery Barnsdale Memorial Fellowship}, University of South Carolina, \$1,000\\
     2023 & \textbf{Graduate Travel Grant}, University of South Carolina, \$500\\
     2023-2024 & \textbf{FlowCam Graduate Research Grant}, Equipment and Travel \newline \textit{Using FlowCam to characterize microplankton communities following intense rainfall events}\\
     2023 & \textbf{Elsie Taber Fellowship}, University of South Carolina, \$2,500\\

@@ -1,0 +1,122 @@
+---
+format: 
+  pdf: 
+    documentclass: article
+    geometry:
+      - top=10mm
+      - left=15mm
+      - right=15mm
+      - bottom=5mm
+      - heightrounded
+    fontfamily: libertine
+    colorlinks: true
+    fontsize: '16'
+    include-in-header: 
+      text: |
+        \usepackage{multicol}
+        \usepackage{lipsum}
+        \usepackage{hyperref}
+        \usepackage{libertine}
+        \pagestyle{empty}
+        \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
+        \setlength{\columnsep}{3em}
+        \usepackage{tabularx}
+---
+
+
+<!-- TITLE -->
+\begin{huge}\begin{center}{\bf ALEX BARTH, Ph.D.}\end{center}\end{huge}
+
+<!-- CONTACT INFO -->
+\begin{center}
+Email: \href{mailto:alex.barth.science@gmail.com}{alex.barth.science@gmail.com} \\
+ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
+\href{https://TheAlexBarth.Github.io}{TheAlexBarth.Github.io} \\
+\end{center}
+\vspace{15pt}
+
+\begin{large}
+  \textbf{RESEARCH EXPERIENCE}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\begin{normalsize}
+  \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
+    2024- & Postdoctoral Researcher, University of Texas, Marine Science Institute + Statistics \& Data Science \newline Advisors: \href{https://caseylab.weebly.com}{Dr. Jordan Casey} \& \href{https://mhooten.github.io}{Dr. Mevin Hooten}\\
+    2019-2024 & Graduate Research Assistant, \href{https://www.zoo-plankton.net/}{\textbf{Stone Zooplankton Ecology Lab}}, University of South Carolina \newline Advisor: Dr. Joshua Stone\\
+    2017-2019 & HAB Sampling Technician, \textbf{Southern California Coastal Ocean Observing System}, Cal Poly Center for Coastal Marine Science. \newline Advisors: Dr. Alexis Pasulka, Dr. Ryan Walter\\
+    2018-2019 & Student Research Assistant, \textbf{Common Garden reciprocal cross of \textit{K. kelletii}}, Cal Poly \newline Adivsor: Dr. Crow White\\
+    2017 & Senior Research Project, \textbf{Investigating a trophic cascade in the upper subtitle} \newline Wrigley Institute, Catalina Island. Advisor: Dr. Chris Lowe\\
+    2017 & Summer Research Assistant, \textbf{Fishes of Texas}, University of Texas at Austin \newline Advisors: Adam Cohen, Dr. Dean Hendrickson
+  \end{tabularx}
+\end{normalsize}
+\vspace{10pt}
+
+<!-- EDUCATION: 1ST BULLET -->
+\begin{large}
+  \textbf{EDUCATION}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}\textbf{Ph.D. Biological Sciences, Ecology}\end{flushleft}
+    \begin{flushright} 2024\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}University of South Carolina\end{flushleft}
+  \end{multicols}
+\end{large}
+
+\vspace{0.05cm}
+
+<!-- EDUCATION: 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}\textbf{B.S. Marine Science, Minor Statistics}\end{flushleft}
+    \begin{flushright}2019\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}
+    Cal Poly, San Luis Obispo
+    \end{flushleft}
+  \end{multicols}
+\end{large}
+\vspace{10pt}
+
+
+<!-- Publications -->
+\begin{large}
+  \textbf{Select Publications}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\begin{normalsize}
+  \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
+    2024 & \textbf{Barth AJ.} Blanco-Berical L. Johnson R. Stone J. Rhizaria in the oligotrophic ocean exhibit temporal and vertical variability. \textit{Deep Sea Research Part I}. \href{https://doi.org/10.1016/j.dsr.2024.104371}{doi: 10.1016/j.dsr.2024.104371}\\
+    2024 & \textbf{Barth AJ.} Stone JP. Understanding the picture: the promise and challenges of in-situ imagery data in the study of plankton ecology. \textit{Journal of Plankton Research: Horizons}\\
+    2023 & \textbf{Barth A.} Johnson R. Stone J. Size and transparency influence diel vertical migration patterns in copepods. \textit{Limnology and Oceanogrphy}. \href{https://doi.org/10.1002/lno.12461}{doi: 10.1002/lno.12461}
+  \end{tabularx}
+\end{normalsize}
+\vspace{10pt}
+
+
+<!-- Research Output  -->
+\begin{large}
+  \textbf{Professional Activities (Last 5 Years)}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\begin{normalsize}
+  \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
+    Publications & 7 Papers (5 First-Author)\\
+    Grant \& Awards & 12 Total (\$303,836 cumulative)\\
+    Presentations \& Seminars & 6 Seminars \& Invited-Talks, 13 Conference Presentations\\
+    Teaching Experience & Instructor of Record (1 Semester), Workshops (1), Lab Instructor (8 Semesters), Undergraduate Project Supervision (3 Students), Guest Lectures (3), Numerous outreach projects.\\
+    Academic Service & Grant Review (NCN-Poland), Journal Articles (Estuaries \& Coasts, Nature Comm., J. Plank. Res., Front. Eco. Envr., J. Geophys., Limnol. Oceangr.), Department/Unversity Committes \& Chair Positions (4)\\
+    Field Experience & Large Oceanographic Experience (3 Cruises; 33 Total Days at Sea), Small boat driving capabilities.\\
+    Software Development & Public R-Packages (2)\\
+  \end{tabularx}
+\end{normalsize}
+\vspace{10pt}
+ 
