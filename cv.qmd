@@ -183,7 +183,7 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
 \begin{normalsize}
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
     Grant Review & \textbf{National Science Centre (NCN) Poland External Reviewer.}\\
-    Journal Reviewer & \textbf{Estuaries \& Coasts, Nature Comm. Earth and Environment, Journal of Geophysical Research, Journal of Plankton Research, Limnology \& Oceanography: Methods, Limnology \& Oceanography}\\
+    Journal Reviewer & \textbf{Front. Ecol. Environ., Estuaries \& Coasts, Nature Comm. Earth and Environment, Journal of Geophysical Research, Journal of Plankton Research, Limnology \& Oceanography: Methods, Limnology \& Oceanography}\\
     2024 & Expert Panel Member, National Science Centre (NCN) Poland. \newline  Krakow, Poland. Provided review on 14 proposals and participated in panel evaluation. \\
     2022-2023 & Co-Chair Graduate Stipend \& Cost-of-Living Committee, USC\\
     2022-2023 & Secretary of Data Management, Graduate Student Association of USC\\
