@@ -36,13 +36,14 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
 \vspace{15pt}
 
 \begin{large}
-  \textbf{RESEARCH EXPERIENCE}
+  \textbf{RESEARCH \& PROFESSIONAL EXPERIENCE}
   \vspace{3pt}
   \hrule
 \end{large}
 \begin{normalsize}
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
-    2024- & Postdoctoral Researcher, University of Texas, Marine Science Institute + Statistics \& Data Science \newline Advisors: \href{https://caseylab.weebly.com}{Dr. Jordan Casey} \& \href{https://mhooten.github.io}{Dr. Mevin Hooten}\\
+    2025- & Coastal Ecologist/Data Analyst, Texas Water Development Board, Surface Water Division, Coastal Science Team.\\
+    2024-2025 & Postdoctoral Researcher, University of Texas, Marine Science Institute and Statistics \& Data Science \newline Advisors: \href{https://caseylab.weebly.com}{Dr. Jordan Casey} \& \href{https://mhooten.github.io}{Dr. Mevin Hooten}\\
     2019-2024 & Graduate Research Assistant, \href{https://www.zoo-plankton.net/}{\textbf{Stone Zooplankton Ecology Lab}}, University of South Carolina \newline Advisor: Dr. Joshua Stone\\
     2017-2019 & HAB Sampling Technician, \textbf{Southern California Coastal Ocean Observing System}, Cal Poly Center for Coastal Marine Science. \newline Advisors: Dr. Alexis Pasulka, Dr. Ryan Walter\\
     2018-2019 & Student Research Assistant, \textbf{Common Garden reciprocal cross of \textit{K. kelletii}}, Cal Poly \newline Advisor: Dr. Crow White\\
@@ -163,8 +164,13 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
 \end{large}
 \begin{normalsize}
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
+<<<<<<< HEAD
     *in rev* & \textbf{Barth AB.}, Pinckney JL. Krask J. Smith E. Stone JP. Storm in a bottle: An experimental investigation of how extreme precipitation impacts phytoplankton communities. \textit{in review at Limnology \& Oceanography}. pre-print available on request.\\
     2024 & Cohen NR. Krinos AI. ... \textbf{Barth AB.} ... et al. Protistan metabolism across the western North Atlantic Ocean revealed through autonous underwater profiling. \textit{Nature Comms.}. \href{https://doi.org/10.1038/s41467-024-51583-4}{doi: 10.1038/s41467-024-51583-4}\\
+=======
+    \textit{pre-print} & \textbf{Barth AJ.}, Pinckney JL. Krask J. Smith E. Stone JP. Storm in a bottle: An experimental investigation of how extreme precipitation impacts phytoplankton communities. \href{https://www.biorxiv.org/content/10.1101/2025.05.20.655176v1.abstract}{bioRxiv}\\
+    2024 & Cohen NR. Krinos AI. ... \textbf{Barth AJ.} ... et al. Protistan metabolism across the western North Atlantic Ocean revealed through autonous underwater profiling. \textit{Nature Comms.}. \href{https://doi.org/10.1038/s41467-024-51583-4}{doi: 10.1038/s41467-024-51583-4}\\
+>>>>>>> f8ee6e90dbeadf4cf8be6968b7c8ec5ffaf160d9
     2024 & \textbf{Barth AJ.} Blanco-Berical L. Johnson R. Stone J. Rhizaria in the oligotrophic ocean exhibit temporal and vertical variability. \textit{Deep Sea Research Part I}. \href{https://doi.org/10.1016/j.dsr.2024.104371}{doi: 10.1016/j.dsr.2024.104371}\\
     2024 & \textbf{Barth AJ.} Stone JP. Understanding the picture: the promise and challenges of in-situ imagery data in the study of plankton ecology. \textit{Journal of Plankton Research: Horizons}\\
     2023 & \textbf{Barth A.} Johnson R. Stone J. Size and transparency influence diel vertical migration patterns in copepods. \textit{Limnology and Oceanogrphy}. \href{https://doi.org/10.1002/lno.12461}{doi: 10.1002/lno.12461}\\
@@ -207,8 +213,7 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
 \begin{normalsize}
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
     (DEV) Ver 0.0.0.9 & Flowprocess. A processing pipeline for flowcam output (Visual SpreadSheet 6) to be best formatted for Ecotaxa entry. R. \href{https://github.com/TheAlexBarth/FlowProcess/tree/main}{https://github.com/TheAlexBarth/FlowProcess}\\
-    (DEV) Ver 1.2.2.9 & EcotaxaTools. A toolkit to process output files from the web application Ecotaxa. R. \href{https://github.com/TheAlexBarth/EcotaxaTools}{https://github.com/TheAlexBarth/EcotaxaTools.}\\
-    Ver 0.2.0 & ggusc. A color palette for University of South Carolina color schemes. R. \href{https://github.com/TheAlexBarth/ggusc}{https://github.com/TheAlexBarth/ggusc}
+    (DEV) Ver 1.2.2.9 & EcotaxaTools. A toolkit to process output files from the web application Ecotaxa. R. \href{https://github.com/TheAlexBarth/EcotaxaTools}{https://github.com/TheAlexBarth/EcotaxaTools.}
   \end{tabularx}
 \end{normalsize}
 \vspace{10pt}
@@ -240,7 +245,12 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
 \begin{normalsize}
   \textbf{Seminars \& Invited Talks}\\
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
+<<<<<<< HEAD
     Feb 2024 & Invited Seminar, Marine Science Institute, University of Texas, Port Aransas, TX. \newline Title: {Big Change, Little Organisms}\\
+=======
+    Mar 2025 & UTMSI Departmental Seminar. \newline Title: \textit{Big Changes, Little Organisms}\\
+    Feb 2025 & Marine Science Advisory Council Spring Meeting, UT Marine Science Institute. \newline Title: \textit{Going with the flow: do environmental oscillations shape food-webs?}\\
+>>>>>>> f8ee6e90dbeadf4cf8be6968b7c8ec5ffaf160d9
     Feb 2024 & Doctoral Defense Seminar \newline Title: \textit{Illuminating the mesopelagic through in-situ imaging of plankton communities.}\\
     Dec 2023 & USC Ecology Seminar \newline Title: \textit{Microplankton responses to intense rainfall events.}\\
     Mar 2023 & Invited Seminar, British Antartic Survey, Cambridge UK \newline Title: \textit{Plankton Paparazzi: How can in situ imaging reveal new patterns in plankton ecology?}\\
@@ -250,9 +260,16 @@ ORCID: \href{https://orcid.org/0000-0001-7154-6260}{0000-0001-7154-6260} \\
   \end{tabularx}
   \textbf{Conference \& Workshops}\\
   \begin{tabularx}{\textwidth}{p{0.2\textwidth} >{\raggedright\arraybackslash}X}
+<<<<<<< HEAD
     Texas Bays \& Estuaries 2025 & \textbf{Barth AB.} Malcolm LD. Olsen Z. Hooten M. Casey J. The impact of oscillating extremes at the base of the food-web. Oral Presentation.\\
     BEM 2025 & \textbf{Barth AB.} Olsen Z. Hooten M. Casey J. Predicting forage fish distributions along the Texas coast. Oral Presentation.\\
     BEM 2025 & Malcolm D. \textbf{Barth AB.} Hooten M. Buskey E. Casey J. Salinity drives shifts in phytoplankton communities in a shallow Texas estuary. \\
+=======
+    Texas Bays \& Estuaries & \textbf{Barth A. } Malcolm LD. Buskey E. Olsen Z. Hooten MB. Casey J. The impact of oscillating extremes at the base of the food web. Oral Presentation.\\
+    Benthic Ecology 2025 & Malcolm LD. \textbf{Barth A.} Buskey E. Hooten MB. Casey J. Salinity influences phytoplankton in South Texas. Oral Presentation\\
+    Benthic Ecology 2025 & \textbf{Barth A.}. Hooten MB. Olsen Z. Casey J. Plantkivorous fish of Texas bays. Oral Presentation.\\
+    GERS 2024 & \textbf{Barth A.}, Malcolm LD. Buskey E. Hooten MB. Casey J. Identifying drivers of microplankton community structure. Oral Presentation.\\
+>>>>>>> f8ee6e90dbeadf4cf8be6968b7c8ec5ffaf160d9
     OSM 2023 & \textbf{Barth A.} Smith E. Pinckney J. Krask J. Stone J. Determining the impact of severe rain events on phytoplankton communities through HPLC \& FlowCam. Oral Presentation.\\ 
     CERF 2023 & \textbf{Barth A.} Stone J. A combined observational-experimental approach to identify the influence of rain on plankton communities. Oral Presentation.\\
     ASLO 2023 & Stone JP. \textbf{Barth AJ.} Rykaczewski R. Wren J. Effects of the ETNP oxygen deficient zone on zooplankton communities and vertical migration. Co-author.\\
