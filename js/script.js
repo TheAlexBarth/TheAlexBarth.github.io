@@ -5,10 +5,20 @@
 	/*	Page Preloader
 	/* ========================================================================= */
 
-	$(window).on('load', function () {
-		$('.preloader').fadeOut(700);
-	});
 
+	$(window).on('load', function () {
+		$('.preloader').fadeOut(700, function() {
+			var vid = document.getElementById('banner-video');
+			if (vid) {
+				vid.muted = true;
+				vid.defaultMuted = true;
+				vid.setAttribute('muted', '');
+				vid.setAttribute('playsinline', '');
+				vid.load();
+				vid.play();
+			}
+		});
+	});
 	/* ========================================================================= */
 	/*	Post image slider
 	/* ========================================================================= */
